@@ -1,0 +1,4 @@
+1)f) No lo puedo ver al archivo "tp2_1_2.cpp"
+porque este no pertenece al a linea principal("master")
+donde ahora me encuentro parado dentro de my repositorio.
+Para verlo tendria que volver a la rama "Opcion_2".
